@@ -1,5 +1,5 @@
 # Content Ideas
 [x] Begin
 [ ] Mastering
-[ ] Starting
+[x] Starting
 [ ] End
