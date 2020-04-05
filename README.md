@@ -7,6 +7,12 @@
 
 Etiam sit amet mattis ligula. - someone
 
+__About Project__
+
+ASR app using transformer
+
+-------
+
 __contact__
 
 -------
